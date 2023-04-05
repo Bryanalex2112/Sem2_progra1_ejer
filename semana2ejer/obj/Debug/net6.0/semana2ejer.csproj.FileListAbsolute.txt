@@ -1,0 +1,15 @@
+C:\programacion\semana2ejer\bin\Debug\net6.0\semana2ejer.exe
+C:\programacion\semana2ejer\bin\Debug\net6.0\semana2ejer.deps.json
+C:\programacion\semana2ejer\bin\Debug\net6.0\semana2ejer.runtimeconfig.json
+C:\programacion\semana2ejer\bin\Debug\net6.0\semana2ejer.dll
+C:\programacion\semana2ejer\bin\Debug\net6.0\semana2ejer.pdb
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.csproj.AssemblyReference.cache
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.AssemblyInfoInputs.cache
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.AssemblyInfo.cs
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.csproj.CoreCompileInputs.cache
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.dll
+C:\programacion\semana2ejer\obj\Debug\net6.0\refint\semana2ejer.dll
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.pdb
+C:\programacion\semana2ejer\obj\Debug\net6.0\semana2ejer.genruntimeconfig.cache
+C:\programacion\semana2ejer\obj\Debug\net6.0\ref\semana2ejer.dll
